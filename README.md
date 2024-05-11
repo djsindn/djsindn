@@ -1,6 +1,8 @@
 # 本脚本基于Asprit平台开发，官网地址 http://dev.airscript.cn/.
 
 ## 开始之前的解释
+* 陌陌养号脚本
+功能实现：
 
 1. 本代码基于Asprit平台开发，官网地址 http://dev.airscript.cn/.
 2. 每个目录对应一个项目，项目代码文件为每个目录下方的xxx.as为文件，直接下载下来就好了
