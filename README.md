@@ -23,24 +23,41 @@
 
 # 基于二次开发的使用流程
 
-**访问官网，点击安卓的新版文档，打开文档**
+[进入as官网  ](http://dev.airscript.cn/)
 
-![image](https://github.com/djsindn/djsindn/assets/42528347/fdb5a0cf-874e-4e29-aaa8-ce83d4188c6d)
-![image](https://github.com/djsindn/djsindn/assets/42528347/b3af4e5a-4509-48c3-964d-14eddf51ccbb)
 
-下载好之后赋予权限
+![1715620612112](https://github.com/djsindn/momo-/assets/42528347/36bc9b7e-21ee-4e34-9f80-674f3dfd4bca)
 
-**根据官网的开发文档对手机进行配置**
+![1715620647943](https://github.com/djsindn/momo-/assets/42528347/2a00831b-1ad2-4def-9d5a-271203d96e8b)
 
----
 
-**当你所有东西都配置好后，web打开了你的页面，他是这样的**
-![image](https://github.com/djsindn/djsindn/assets/42528347/d4b9a882-8438-4a56-8068-db41ea31cf5d)
-然后点击开始构建
-![image](https://github.com/djsindn/djsindn/assets/42528347/23144a3a-968a-4de5-a2a7-90c228a1f384)
-**点击上传工程包，将你下载下来的后缀为 .as 的文件 上传上去就可以了**
+下载好之后如下图
 
-请开始你的二次开发旅途
+![1715620828411](https://github.com/djsindn/momo-/assets/42528347/bdb7cde3-2dfb-4c2a-9204-dfd6dfbe42e0)
+
+![1715620799602](https://github.com/djsindn/momo-/assets/42528347/9c22ffb9-a036-4136-9b33-b4a029a8bee7)
+
+![1715620844881](https://github.com/djsindn/momo-/assets/42528347/de34005d-96ce-49c9-863b-c489e6036867)
+
+**打开软件 --> 赋予权限-->点击开发者 查看你的 局域网ip**
+
+在官方文档中有教程 ，比如最好是 电脑跟手机在同一局域网中进行测试 ，如果不在 那么打开公网ip （挺卡的）
+
+在浏览器中输入你的局域网 ip 
+
+![1715620968504](https://github.com/djsindn/momo-/assets/42528347/56a0e9b3-db56-4c99-a4cc-9732b84f1070)
+
+
+点击开始构建 ，上传工程包
+
+![1715620998447](https://github.com/djsindn/momo-/assets/42528347/3a412b49-b7d4-430b-a29c-7c0ff9fde293)
+
+
+**将文件夹内的 .as 文件下载下来，在上传工程包的时候，上传就可以了**
+
+我们有 三种编辑器选择 web 开发 | vscode | pycharm 具体见官方文档
+
+我本人使用的是vscode 
 
 ---
 
