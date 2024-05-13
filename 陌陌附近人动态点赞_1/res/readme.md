@@ -13,13 +13,19 @@
 
 [进入as官网  ](http://dev.airscript.cn/)
 
-![1715620612112](image/readme/1715620612112.png)
 
-![1715620647943](image/readme/1715620647943.png)
+![1715620612112](https://github.com/djsindn/momo-/assets/42528347/36bc9b7e-21ee-4e34-9f80-674f3dfd4bca)
+
+![1715620647943](https://github.com/djsindn/momo-/assets/42528347/2a00831b-1ad2-4def-9d5a-271203d96e8b)
+
 
 下载好之后如下图
 
-![1715620828411](image/readme/1715620828411.png)![1715620799602](image/readme/1715620799602.png)![1715620844881](image/readme/1715620844881.png)
+![1715620828411](https://github.com/djsindn/momo-/assets/42528347/bdb7cde3-2dfb-4c2a-9204-dfd6dfbe42e0)
+
+![1715620799602](https://github.com/djsindn/momo-/assets/42528347/9c22ffb9-a036-4136-9b33-b4a029a8bee7)
+
+![1715620844881](https://github.com/djsindn/momo-/assets/42528347/de34005d-96ce-49c9-863b-c489e6036867)
 
 **打开软件 --> 赋予权限-->点击开发者 查看你的 局域网ip**
 
@@ -27,11 +33,13 @@
 
 在浏览器中输入你的局域网 ip 
 
-![1715620968504](image/readme/1715620968504.png)
+![1715620968504](https://github.com/djsindn/momo-/assets/42528347/56a0e9b3-db56-4c99-a4cc-9732b84f1070)
+
 
 点击开始构建 ，上传工程包
 
-![1715620998447](image/readme/1715620998447.png)
+![1715620998447](https://github.com/djsindn/momo-/assets/42528347/3a412b49-b7d4-430b-a29c-7c0ff9fde293)
+
 
 **将文件夹内的 .as 文件下载下来，在上传工程包的时候，上传就可以了**
 
@@ -50,7 +58,6 @@
 ```bash
 - res             // 静态资源文件夹
    - img          // 程序中调用的图片
-   - image        // 额这个是放我readme.md 文件 中的图片的 因为我的md 文件在本地写的
    - ui           // 程序ui
 - _init_.py       // 主体执行文件
 - hanshu.py       // 封装好的函数
@@ -62,17 +69,16 @@
 ### 如何查找控件
 
 在web编辑器中点击
+![1715621857756](https://github.com/djsindn/momo-/assets/42528347/001515ce-0233-4b0e-b1a8-be39de2cf832)
 
-![1715621857756](image/readme/1715621857756.png)
-
-![1715621950130](image/readme/1715621950130.png)
+![1715621950130](https://github.com/djsindn/momo-/assets/42528347/6c1c07d3-2d4b-418e-958b-9509ebbb8cf0)
 
 
 这里呢就拥有你需要的控件 ，包括如何查找，使用 ，举个例子
 
 我需要查找可点击属性的 附近控件
 
-![1715622058101](image/readme/1715622058101.png)
+![1715622058101](https://github.com/djsindn/momo-/assets/42528347/88d00720-a249-4dc9-8f43-3e0cc2670b41)
 
 这里，我选择了 文本 为 附近 id 为 com.。。。 另外寻找他的拥有可点击属性的 父级控件 ,再复制代码 就可以啦，然后根据代码中的 注释 来进行 更改
 
