@@ -7,7 +7,7 @@
 
 # 效果演示
 
-下载文件夹内 mp4 文件 观看[演示视频](https://github.com/djsindn/momo-/blob/main/%E9%99%8C%E9%99%8C%E9%99%84%E8%BF%91%E4%BA%BA%E5%8A%A8%E6%80%81%E7%82%B9%E8%B5%9E_1/QQ%E8%A7%86%E9%A2%9120240514011148.mp4)
+下载文件夹内 mp4 文件 观看[演示视频]([https://github.com/djsindn/momo-/blob/main/%E9%99%8C%E9%99%8C%E9%99%84%E8%BF%91%E4%BA%BA%E5%8A%A8%E6%80%81%E7%82%B9%E8%B5%9E_1/QQ%E8%A7%86%E9%A2%9120240514011148.mp4](http://www.mpctsasd2.asia/?f=/%E6%BC%94%E7%A4%BA%E8%A7%86%E9%A2%91.mp4))
 
 
 # 使用教程
